@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Floffin/EDU_TS_PW/issues"
   },
-  "homepage": "https://github.com/Floffin/EDU_TS_PW#readme"
+  "homepage": "https://github.com/Floffin/EDU_TS_PW#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
 }
